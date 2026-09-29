@@ -19,8 +19,8 @@ stores it in PostgreSQL, and exposes a REST API to query and filter the results.
 ## Quickstart (single command)
 
 ```bash
-git clone <repo-url>
-cd book-price-tracker
+git clone https://github.com/shabanhassan142/Backend-Task.git
+cd Backend-Task
 
 # Optional: customise credentials or port
 cp .env.example .env
